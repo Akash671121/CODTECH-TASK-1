@@ -8,9 +8,8 @@ Mentor : NEELA SANTHOSH KUMAR
 # Overview Of The Project
 Project : Simple calculator
 
-Objectives :
-1 Input Grades: Allow users to enter grades for various subjects or assignments.
-2 Calculate Average: Compute the average of the entered grades. 3 Display Grades: Show the overall grade along with additional information such as the letter grade or GPA.
+# Objectives :
+1. Prompts the user to enter two numbers. 2. Allows the user to choose an arithmetic operation (addition, subtraction, multiplication, division). 3. Performs the selected operation on the input numbers. 4. Displays the result of the operation to the user.
 
-Key Features :
-The Studentmarks program calculates a student's GPA and letter grade based on the average of input grades for multiple subjects. It allows the user to input the number of subjects and their respective grades, computes the average, and then determines the GPA and letter grade according to predefined thresholds. The program outputs a grade summary, including the number of subjects, average grade, letter grade, and GPA. It uses basic input handling and conditional logic to classify grades into corresponding GPA values and letter grades.
+# Key Features :
+
